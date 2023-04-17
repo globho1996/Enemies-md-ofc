@@ -8,15 +8,15 @@ import axios from 'axios'
 import moment from 'moment-timezone' 
 
 global.owner = [
-  ['393312171655', '𝐄ИΞM𝕀Ξ𝐒 𝐁Ꮻ𝐓', true],
-  ['377607935810'],
-  ['393756447945'],
-  //['393312171655'],	
-  ['393312171655']
+  ['19543069775', '𝐄ИΞM𝕀Ξ𝐒 𝐁Ꮻ𝐓', true],
+  ['00000000000'],
+  ['00000000000'],
+  //['00000000000'],	
+  ['00000000000']
 ] 
 
-global.suittag = ['393312171655'] 
-global.prems = ['393312171655'] 
+global.suittag = ['19543069775'] 
+global.prems = ['19543069775'] 
 
 global.packname = '𝐄ИΞM𝕀Ξ𝐒'
 global.author = '𝐁Ꮻ𝐓'
@@ -431,7 +431,7 @@ global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD'
 global.waitt = 'ok'
 global.waittt = 'ok'
 global.waitttt = 'ok'
-global.nomorown = '393312171655'
+global.nomorown = '19543069775'
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf']
 global.cmenut = '❖––––––『'
 global.cmenub = '┊✦ '
